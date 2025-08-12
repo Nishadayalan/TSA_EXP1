@@ -60,7 +60,15 @@ plt.show()
 <img width="1748" height="360" alt="image" src="https://github.com/user-attachments/assets/e0a6f3a5-0ac3-46bf-920d-3c3cbe9438b5" />
 
 
+
+
+
+
 <img width="1747" height="420" alt="image" src="https://github.com/user-attachments/assets/b5531e07-481c-43cd-a01c-542af7e3ef07" />
+
+
+
+
 
 
 <img width="937" height="615" alt="image" src="https://github.com/user-attachments/assets/6fc33fdf-ba61-4333-b7c2-ba838f6f4a3d" />
